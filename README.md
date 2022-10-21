@@ -1,6 +1,6 @@
 # Usage
 1. download glove.6B.zip from https://nlp.stanford.edu/projects/glove/
-2. unzip love.6B.zip into codes/AGEA/ (glove.6B.300d.txt will be used)
+2. unzip glove.6B.zip into codes/AGEA/ (glove.6B.300d.txt will be used)
 3. run train.py
 ```
 # Basic Pytorch environment is required
